@@ -15,7 +15,7 @@
         "name": {
           "firstName": "Petr",
           "lastName": "Petrov",
-          "patronymic": "Petrovich"        
+          "patronymic": "Petrovich"
           }
         },
       {
@@ -24,7 +24,7 @@
         "name": {
           "firstName": "Sergey",
           "lastName": "Sergeev",
-          "patronymic": "Sergeevich"        
+          "patronymic": "Sergeevich"
           }
         },
       {
@@ -33,7 +33,7 @@
         "name": {
           "firstName": "Anton",
           "lastName": "Antonov",
-          "patronymic": "Antonovich"        
+          "patronymic": "Antonovich"
           }
         },
       {
@@ -42,7 +42,7 @@
         "name": {
           "firstName": "Dmitry",
           "lastName": "Dmitriev",
-          "patronymic": "Dmitrievich"        
+          "patronymic": "Dmitrievich"
           }
         },
       {
@@ -51,7 +51,7 @@
         "name": {
           "firstName": "Donald",
           "lastName": "Trump",
-          "patronymic": "Ivanovich"       
+          "patronymic": "Ivanovich"
           }
          }
   ],
