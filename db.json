@@ -61,7 +61,10 @@
         "type": "book",
         "attributes": {
           "name": "Clean Code",
+<<<<<<< HEAD
 
+=======
+>>>>>>> dd89fc9a484ae3d73bdbb61a0dc9ee60d14675e8
           "number": 398,
           "rate": 34,
           "tags": ["эффективность", "эффективность"],
