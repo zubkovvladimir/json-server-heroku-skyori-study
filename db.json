@@ -2,57 +2,44 @@
   "speakers": [
       {
         "id": 1,
-        "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStqxZjYHeWaltF1nPTL0NzoeAPwqQWCMjrGw&usqp=CAU",
-        "name": {
-          "firstName": "Ivan",
-          "lastName": "Ivanov",
-          "patronymic": "Ivanovich"
-        }
-      },
+        "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStqxZjYHeWaltF1nPTL0NzoeAPwqQWCMjrGw&usqp=CAU",        
+        "firstName": "Ivan",
+        "lastName": "Ivanov",
+        "patronymic": "Ivanovich"            },
       {
         "id": 2,
-        "photo": "https://www.myforfaitmobile.com/wp-content/uploads/backup/2017/11/clement.png",
-        "name": {
-          "firstName": "Petr",
-          "lastName": "Petrov",
-          "patronymic": "Petrovich"        
-          }
+        "photo": "https://www.myforfaitmobile.com/wp-content/uploads/backup/2017/11/clement.png",        
+        "firstName": "Petr",
+        "lastName": "Petrov",
+        "patronymic": "Petrovich"        
         },
       {
         "id": 3,
-        "photo": "https://allthingsd.com/files/2013/07/hunterwalk5-e1320001548309-300x300.jpg",
-        "name": {
-          "firstName": "Sergey",
-          "lastName": "Sergeev",
-          "patronymic": "Sergeevich"        
-          }
+        "photo": "https://allthingsd.com/files/2013/07/hunterwalk5-e1320001548309-300x300.jpg",        
+        "firstName": "Sergey",
+        "lastName": "Sergeev",
+        "patronymic": "Sergeevich"        
         },
       {
         "id": 4,
-        "photo": "https://cdn.pixabay.com/photo/2016/03/31/19/10/avatar-1294773_960_720.png",
-        "name": {
-          "firstName": "Anton",
-          "lastName": "Antonov",
-          "patronymic": "Antonovich"        
-          }
+        "photo": "https://cdn.pixabay.com/photo/2016/03/31/19/10/avatar-1294773_960_720.png",        
+        "firstName": "Anton",
+        "lastName": "Antonov",
+        "patronymic": "Antonovich"        
         },
       {
         "id": 5,
-        "photo": "https://cdn.pixabay.com/photo/2016/03/31/19/10/avatar-1294776_960_720.png",
-        "name": {
-          "firstName": "Dmitry",
-          "lastName": "Dmitriev",
-          "patronymic": "Dmitrievich"        
-          }
+        "photo": "https://cdn.pixabay.com/photo/2016/03/31/19/10/avatar-1294776_960_720.png",        
+        "firstName": "Dmitry",
+        "lastName": "Dmitriev",
+        "patronymic": "Dmitrievich"        
         },
       {
         "id": 6,
-        "photo": "http://visualrian.ru/images/0001/2123/67/000121236764_RIAN-ID-5593959.jpg",
-        "name": {
-          "firstName": "Donald",
-          "lastName": "Trump",
-          "patronymic": "Ivanovich"       
-          }
+        "photo": "http://visualrian.ru/images/0001/2123/67/000121236764_RIAN-ID-5593959.jpg",        
+        "firstName": "Donald",
+        "lastName": "Trump",
+        "patronymic": "Ivanovich"        
          }
   ],
   "books": [
