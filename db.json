@@ -64,7 +64,8 @@
         "tags": ["эффективность", "эффективность"],
         "cover": "https://images-na.ssl-images-amazon.com/images/I/51b7XbfMIIL.jpg",
         "firstName": "Robert C.",
-        "lastName": "Martin"
+        "lastName": "Martin",
+        "description": "https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882"
       },
       {
         "id": 2,
@@ -74,7 +75,8 @@
         "tags": ["суперкнига", "суперкнига"],
         "cover": "https://images-na.ssl-images-amazon.com/images/I/71CjT0N23ML.jpg",
         "firstName": "Steve",
-        "lastName": "McConnell"
+        "lastName": "McConnell",
+        "description": "https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882"
       },
       {
         "id": 3,
@@ -84,7 +86,8 @@
         "tags": ["суперкнига", "суперкнига"],
         "cover": "https://m.media-amazon.com/images/I/411csr6Nn0L.jpg",
         "firstName": "Robert C.",
-        "lastName": "Martin"
+        "lastName": "Martin",
+        "description": "https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164"
       },
       {
         "id": 4,
@@ -94,7 +97,8 @@
         "tags": ["суперкнига", "суперкнига"],
         "cover": "https://eloquentjavascript.net/img/cover.jpg",
         "firstName": "Marijn",
-        "lastName": "Haverbeke"
+        "lastName": "Haverbeke",
+        "description": "https://www.amazon.com/Eloquent-JavaScript-3rd-Introduction-Programming-ebook/dp/B07C96Q217"
       },
       {
         "id": 5,
@@ -104,7 +108,8 @@
         "tags": ["суперкнига", "суперкнига"],
         "cover": "https://alifeofproductivity.com/wp-content/uploads/2019/08/HyperFocusDropShadow-698x1024.png",
         "firstName": "Chris",
-        "lastName": "Bailey"
+        "lastName": "Bailey",
+        "description": "https://www.amazon.com/Hyperfocus-More-Productive-World-Distraction/dp/0525522239"
       },
       {
         "id": 6,
@@ -114,7 +119,8 @@
         "tags": ["суперкнига", "суперкнига"],
         "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVxTljS7pmeAdN90gkl2xcIchNYWK_3H6Njw&usqp=CAU",
         "firstName": "Aditya Y.",
-        "lastName": "Bhargava"
+        "lastName": "Bhargava",
+        "description": "https://www.amazon.com/Grokking-Algorithms-illustrated-programmers-curious/dp/1617292230"
       }
   ]
 }
