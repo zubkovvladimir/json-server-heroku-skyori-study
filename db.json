@@ -15,7 +15,7 @@
         "name": {
           "firstName": "Petr",
           "lastName": "Petrov",
-          "patronymic": "Petrovich"
+          "patronymic": "Petrovich"        
           }
         },
       {
@@ -24,7 +24,7 @@
         "name": {
           "firstName": "Sergey",
           "lastName": "Sergeev",
-          "patronymic": "Sergeevich"
+          "patronymic": "Sergeevich"        
           }
         },
       {
@@ -33,7 +33,7 @@
         "name": {
           "firstName": "Anton",
           "lastName": "Antonov",
-          "patronymic": "Antonovich"
+          "patronymic": "Antonovich"        
           }
         },
       {
@@ -42,7 +42,7 @@
         "name": {
           "firstName": "Dmitry",
           "lastName": "Dmitriev",
-          "patronymic": "Dmitrievich"
+          "patronymic": "Dmitrievich"        
           }
         },
       {
@@ -51,89 +51,91 @@
         "name": {
           "firstName": "Donald",
           "lastName": "Trump",
-          "patronymic": "Ivanovich"
+          "patronymic": "Ivanovich"       
           }
          }
   ],
   "books": [
       {
         "id": 1,
-        "type": "book",
-        "attributes": {
-          "name": "Clean Code",
-<<<<<<< HEAD
-
-=======
->>>>>>> dd89fc9a484ae3d73bdbb61a0dc9ee60d14675e8
+        "name": "Clean Code",
+        "features": {
           "number": 398,
           "rate": 34,
           "tags": ["эффективность", "эффективность"],
-          "cover": "https://images-na.ssl-images-amazon.com/images/I/51b7XbfMIIL.jpg",
+          "cover": "https://images-na.ssl-images-amazon.com/images/I/51b7XbfMIIL.jpg"
+        },          
+        "author": {
           "firstName": "Robert C.",
           "lastName": "Martin"
         }
       },
       {
         "id": 2,
-        "type": "book",
-        "attributes": {
-          "name": "Code Complete",
+        "name": "Code Complete",
+        "features": {
           "number": 787,
           "rate": 45,
           "tags": ["суперкнига", "суперкнига"],
-          "cover": "https://images-na.ssl-images-amazon.com/images/I/71CjT0N23ML.jpg",
+          "cover": "https://images-na.ssl-images-amazon.com/images/I/71CjT0N23ML.jpg"
+        },          
+        "author": {
           "firstName": "Steve",
           "lastName": "McConnell"
         }
       },
       {
         "id": 3,
-        "type": "book",
-        "attributes": {
-          "name": "Clean Architecture",
+        "name": "Clean Architecture",
+        "features": {
           "number": 567,
           "rate": 98,
           "tags": ["суперкнига", "суперкнига"],
-          "cover": "https://m.media-amazon.com/images/I/411csr6Nn0L.jpg",
+          "cover": "https://m.media-amazon.com/images/I/411csr6Nn0L.jpg"
+        },          
+        "author": {
           "firstName": "Robert C.",
           "lastName": "Martin"
         }
       },
       {
         "id": 4,
-        "type": "book",
-        "attributes": {
-          "name": "Eloquent JavaScript",
+        "name": "Eloquent JavaScript",
+        "features": {
           "number": 345,
           "rate": 67,
           "tags": ["суперкнига", "суперкнига"],
-          "cover": "https://eloquentjavascript.net/img/cover.jpg",
+          "cover": "https://eloquentjavascript.net/img/cover.jpg"
+        },          
+        "author": {
           "firstName": "Marijn",
           "lastName": "Haverbeke"
         }
       },
       {
         "id": 5,
-        "type": "book",
-        "attributes": {
-          "name": "Hyperfocus",
+        "name": "Hyperfocus",
+        "features": {
           "number": 456,
           "rate": 23,
           "tags": ["суперкнига", "суперкнига"],
-          "cover": "https://alifeofproductivity.com/wp-content/uploads/2019/08/HyperFocusDropShadow-698x1024.png",
+          "cover": "https://alifeofproductivity.com/wp-content/uploads/2019/08/HyperFocusDropShadow-698x1024.png"
+        },          
+        "author": {
           "firstName": "Chris",
           "lastName": "Bailey"
         }
       },
       {
         "id": 6,
-        "type": "book",
-        "attributes": {
-          "name": "Grokking Algorithms",
+        "name": "Grokking Algorithms",
+        "features": {
           "number": 899,
           "rate": 88,
           "tags": ["суперкнига", "суперкнига"],
-          "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVxTljS7pmeAdN90gkl2xcIchNYWK_3H6Njw&usqp=CAU",
+          "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVxTljS7pmeAdN90gkl2xcIchNYWK_3H6Njw&usqp=CAU"
+        },          
+        "author": {
           "firstName": "Aditya Y.",
           "lastName": "Bhargava"
         }
