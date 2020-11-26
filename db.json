@@ -58,74 +58,80 @@
   "books": [
       {
         "id": 1,
-        "name": "Clean Code",
-        "author": "Robert C. Martin",
-        "features": {
+        "type": "book",
+        "attributes": {
+          "name": "Clean Code",
           "number": 398,
           "rate": 34,
           "tags": ["эффективность", "эффективность"],
           "cover": "https://images-na.ssl-images-amazon.com/images/I/51b7XbfMIIL.jpg",
-          "description": "https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882"
+          "firstName": "Robert C.",
+          "lastName": "Martin"
         }
       },
       {
         "id": 2,
-        "name": "Code Complete",
-        "author": "Steve McConnell",
-        "features": {
+        "type": "book",
+        "attributes": {
+          "name": "Code Complete",
           "number": 787,
           "rate": 45,
           "tags": ["суперкнига", "суперкнига"],
           "cover": "https://images-na.ssl-images-amazon.com/images/I/71CjT0N23ML.jpg",
-          "description": "https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882"
+          "firstName": "Steve",
+          "lastName": "McConnell"
         }
       },
       {
         "id": 3,
-        "name": "Clean Architecture",
-        "author": "Robert C. Martin",
-        "features": {
+        "type": "book",
+        "attributes": {
+          "name": "Clean Architecture",
           "number": 567,
           "rate": 98,
           "tags": ["суперкнига", "суперкнига"],
           "cover": "https://m.media-amazon.com/images/I/411csr6Nn0L.jpg",
-          "description": "https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164"
+          "firstName": "Robert C.",
+          "lastName": "Martin"
         }
       },
       {
         "id": 4,
-        "name": "Eloquent JavaScript",
-        "author": "Marijn Haverbeke",
-        "features": {
+        "type": "book",
+        "attributes": {
+          "name": "Eloquent JavaScript",
           "number": 345,
           "rate": 67,
           "tags": ["суперкнига", "суперкнига"],
           "cover": "https://eloquentjavascript.net/img/cover.jpg",
-          "description": "https://www.amazon.com/Eloquent-JavaScript-3rd-Introduction-Programming-ebook/dp/B07C96Q217"
+          "firstName": "Marijn",
+          "lastName": "Haverbeke"
         }
       },
       {
         "id": 5,
-        "name": "Hyperfocus",
-        "author": "Chris Bailey",
-        "features": {
+        "type": "book",
+        "attributes": {
+          "name": "Hyperfocus",
           "number": 456,
           "rate": 23,
           "tags": ["суперкнига", "суперкнига"],
           "cover": "https://alifeofproductivity.com/wp-content/uploads/2019/08/HyperFocusDropShadow-698x1024.png",
-          "description": "https://www.amazon.com/Hyperfocus-More-Productive-World-Distraction/dp/0525522239"
+          "firstName": "Chris",
+          "lastName": "Bailey"
         }
       },
       {
         "id": 6,
-        "name": "Grokking Algorithms",
-        "author": "Aditya Y. Bhargava",
-        "features": {
+        "type": "book",
+        "attributes": {
+          "name": "Grokking Algorithms",
           "number": 899,
           "rate": 88,
           "tags": ["суперкнига", "суперкнига"],
           "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVxTljS7pmeAdN90gkl2xcIchNYWK_3H6Njw&usqp=CAU",
-          "description": "https://www.amazon.com/Grokking-Algorithms-illustrated-programmers-curious/dp/1617292230"
+          "firstName": "Aditya Y.",
+          "lastName": "Bhargava"
         }
       }
   ]
